@@ -14,7 +14,9 @@
 使用pip安装：  
 
 `pip install mysqlclient`
+
 `pip install markdown`
+
 `pip install Pygments`
 
 ### 配置数据库

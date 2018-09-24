@@ -20,7 +20,6 @@
 `pip install Pygments`
 
 ### 配置数据库
-配置都是在`setting.py`中.部分配置迁移到了后台配置中。
 
  修改`DjangoBlog/setting.py` 修改数据库配置，如下所示(例子中使用的是mysql,使用其它数据库请参考django官方文档)：
  
